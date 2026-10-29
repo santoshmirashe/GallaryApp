@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme - transparent so Compose controls it -->
+    <style name="Theme.GalleryApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+</resources>

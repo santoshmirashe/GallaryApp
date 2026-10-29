@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Camera / photo icon as app foreground -->
+    <!-- Outer circle (lens) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 C43,34 34,43 34,54 C34,65 43,74 54,74 C65,74 74,65 74,54 C74,43 65,34 54,34 Z" />
+    <!-- Inner circle (aperture) -->
+    <path
+        android:fillColor="#9C77F5"
+        android:pathData="M54,42 C47.4,42 42,47.4 42,54 C42,60.6 47.4,66 54,66 C60.6,66 66,60.6 66,54 C66,47.4 60.6,42 54,42 Z" />
+    <!-- Camera body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,28 L70,28 L67,22 L41,22 L38,28 L32,28 C28.7,28 26,30.7 26,34 L26,74 C26,77.3 28.7,80 32,80 L76,80 C79.3,80 82,77.3 82,74 L82,34 C82,30.7 79.3,28 76,28 Z M76,74 L32,74 L32,34 L40.5,34 L43.5,28 L64.5,28 L67.5,34 L76,34 L76,74 Z" />
+</vector>
